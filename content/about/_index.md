@@ -30,4 +30,4 @@ With my combined 6 years of experience in data organization, data analysis, and 
 
 
 
-[1]: Me_TrainFr.jpg
+[1]: Me_TrainFr2.jpg

@@ -1,11 +1,18 @@
 ---
-date: "2016-11-05T21:05:33+05:30"
+date: "2023-10-05T21:05:33+05:30"
 title: About me
 ---
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+My greatest love is my pack of rescue dogs. My second greatest love is turning data into useful insights and actions.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+In my current position as a Performance Marketing Analyst, I prepare weekly auditing reports to review all data that is received via our lead generation channels. After the data has been audited and any discrepancies corrected, I create dashboards that provide a daily reference to track our lead information over time. I also use other external data sources to create statistical analyses and predictions to assist team members in streamlining their marketing campaigns to better reach their audiences.
+
+As a Data Operations Consultant for Filevine, I routinely worked with stakeholders to analyze, clean, transform, and organize data using Excel and R in order to migrate their data into their Filevine or Lead Docket environment. Clients and I were in constant collaboration to not only find the correct data, but also to correct and organize their data into an easily readable and usable format.
+
+In my previous employment as a data analyst at Utah Valley University, and employment as a teacher and researcher, I have been required to utilize technology resources including university databases, Oracle, SQL, R, and digital libraries to facilitate organizational research. I assisted various university departments in using Oracle, SQL, Excel, and Tableau to answer questions about department and student success, visualize the learning outcomes of a variety of courses and degrees, and analyze student performance. I also used R to statistically locate and visualize predictors of academic success at Utah Valley University as well as created a Shiny application to make the University College data entry process more efficient.
+
+With my combined 4 years of experience in data organization and data analysis roles at Filevine and the University College at Utah Valley University, I acquired a background in problem solving, employee training, and collaborative group work as well as solo projects.
+
 
 ![This is me][1]
 

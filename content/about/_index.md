@@ -11,7 +11,7 @@ As a Data Operations Consultant for Filevine, I routinely worked with stakeholde
 
 In my previous employment as a data analyst at Utah Valley University, and employment as a teacher and researcher, I have been required to utilize technology resources including university databases, Oracle, SQL, R, and digital libraries to facilitate organizational research. I assisted various university departments in using Oracle, SQL, Excel, and Tableau to answer questions about department and student success, visualize the learning outcomes of a variety of courses and degrees, and analyze student performance. I also used R to statistically locate and visualize predictors of academic success at Utah Valley University as well as created a Shiny application to make the University College data entry process more efficient.
 
-With my combined 4 years of experience in data organization and data analysis roles at Filevine and the University College at Utah Valley University, I acquired a background in problem solving, employee training, and collaborative group work as well as solo projects.
+With my combined 6 years of experience in data organization, data analysis, and data marketing roles at Utah County Government, Filevine, the University College at Utah Valley University, I acquired a background in problem solving, employee training, and collaborative group work as well as solo projects.
 
 
 ![This is me][1]

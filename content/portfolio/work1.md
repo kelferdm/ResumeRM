@@ -1,9 +1,9 @@
 ---
 date: "2016-11-05T18:25:22+05:30"
 draft: false
-image: img/portfolio/a4-paper.jpg
+image: img/portfolio/BFAS1.jpg
 showonlyimage: true
-title: Name of the work 1
+title: Animal Society No-Kill Shelters and Counties in US
 weight: 0
 ---
 ## A look at the demographics of current no-kill counties  
@@ -29,7 +29,7 @@ The counties with no-kill shelters are primarily in the ranges of $50k and below
 
 
 
-![Screenshot1_BFAS][1]
+![Screenshot_BFAS][1]
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 

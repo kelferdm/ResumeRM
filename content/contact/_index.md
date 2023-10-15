@@ -4,3 +4,4 @@ title: Get in touch
 ---
 
 
+If you want to chat, feel free to drop me a line!

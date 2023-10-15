@@ -29,7 +29,7 @@ The counties with no-kill shelters are primarily in the ranges of $50k and below
 
 
 
-![Screenshot_BFAS1][1]
+![BFAS1][1]
 
 > Are all of these significant? Are some of these heavier in significance? How would that affect our targets for no-kill by 2025?  
 
@@ -71,7 +71,7 @@ I also added a response field in the data that flagged the state/county as being
 From there, I could find which of those demographics was significant, either positively or negatively, and lay out the targets for counties that match demographically to counties that contain no-kill shelters.
  
 
-![Screenshot1_BFAS2][2]
+![BFAS2][2]
 
 Logistic regression predictions  
 
@@ -80,7 +80,7 @@ A logistic regression helps us to understand the influence of these variables on
 The most important factor was the percent of residents in a given county that had not received a high school diploma. The higher this value, the less likely a county would be listed as no-kill. An increase in high school graduations to ~ 40% can double the likelihood of a county being designated as no-kill.  
 
 
-![Screenshot1_BFAS3][3]
+![BFAS3][3]
 
 
 
@@ -94,7 +94,7 @@ The most important variables for this data set focus on education levels.
 Important to note that the education levels are not independent. Increases in one group must involve decreases to another group.
 
 
-![Screenshot1_BFAS4][4]
+![BFAS4][4]
 
 
 
@@ -115,14 +115,14 @@ Top Three Counties that resemble current no-kill counties:
 * Fairfax County, VA
 
 
-![Screenshot1_BFAS5][5]
+![BFAS5][5]
 
 
-[1]: img/portfolio/BFAS1.jpg
-[2]: img/portfolio/BFAS1.jpg
-[3]: img/portfolio/BFAS1.jpg
-[4]: img/portfolio/BFAS1.jpg
-[5]: img/portfolio/BFAS1.jpg
+[1]: static/img/portfolio/BFAS1.jpg
+[2]: img/portfolio/BFAS2.jpg
+[3]: img/portfolio/BFAS3.jpg
+[4]: img/portfolio/BFAS4.jpg
+[5]: img/portfolio/BFAS5.jpg
 
 
 

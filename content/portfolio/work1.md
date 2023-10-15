@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T18:25:22+05:30"
 draft: false
-image: img/portfolio/BFAS1.jpg
+image: img/portfolio/IndyKelly1.jpg
 showonlyimage: true
 title: Animal Society No-Kill Shelters and Counties in US
 weight: 0
@@ -23,15 +23,15 @@ Lower Left:
 Population size:
 There are some larger county size represented here, but they are largely under 250,000.
 
-Lower Right:
-Income Range:
-The counties with no-kill shelters are primarily in the ranges of $50k and below.
+Lower Right:  
+Income Range:  
+The counties with no-kill shelters are primarily in the ranges of $50k and below.  
 
 
 
-![Screenshot_BFAS][1]
+![Screenshot_BFAS1][1]
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+> Are all of these significant? Are some of these heavier in significance? How would that affect our targets for no-kill by 2025?  
 
 ## Limitations of a descriptive data set for actionable insights
 
@@ -71,22 +71,20 @@ I also added a response field in the data that flagged the state/county as being
 From there, I could find which of those demographics was significant, either positively or negatively, and lay out the targets for counties that match demographically to counties that contain no-kill shelters.
  
 
-![Screenshot1_BFAS][2]
+![Screenshot1_BFAS2][2]
 
 Logistic regression predictions  
-A logistic regression helps us to understand the influence of these variables on the probability of a county being designated as no-kill.
 
-The most important factor was the percent of residents in a given county that had not received a high school diploma. The higher this value, the less likely a county would be listed as no-kill. An increase in high school graduations to ~ 40% can double the likelihood of a county being designated as no-kill.
+A logistic regression helps us to understand the influence of these variables on the probability of a county being designated as no-kill.  
 
-
-![Screenshot1_BFAS][3]
+The most important factor was the percent of residents in a given county that had not received a high school diploma. The higher this value, the less likely a county would be listed as no-kill. An increase in high school graduations to ~ 40% can double the likelihood of a county being designated as no-kill.  
 
 
-
+![Screenshot1_BFAS3][3]
 
 
 
-Random forest importance
+Random forest importance  
 
 
 A random forest (ML) model highlights the most important variables in determining whether counties are listed as no-kill. 
@@ -96,7 +94,7 @@ The most important variables for this data set focus on education levels.
 Important to note that the education levels are not independent. Increases in one group must involve decreases to another group.
 
 
-![Screenshot1_BFAS][4]
+![Screenshot1_BFAS4][4]
 
 
 
@@ -112,15 +110,15 @@ If the demographics of education, income, race, and population size are importan
 
 Top Three Counties that resemble current no-kill counties:
 
-Hunterdon County, NJ
-Summity County, UT
-Fairfax County, VA
+* Hunterdon County, NJ
+* Summity County, UT
+* Fairfax County, VA
 
 
-![Screenshot1_BFAS][5]
+![Screenshot1_BFAS5][5]
 
 
-[1]: BFAS1.jpg
+[1]: img/portfolio/BFAS1.jpg
 [2]: BFAS2.jpg
 [3]: BFAS3.jpg
 [4]: BFAS4.jpg

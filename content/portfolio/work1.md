@@ -118,11 +118,11 @@ Top Three Counties that resemble current no-kill counties:
 ![This is me][5]
 
 
-[1]: static/img/portfolio/BFAS1.jpg
-[2]: BFAS2.jpg
-[3]: portfolio/BFAS3.jpg
-[4]: img/portfolio/BFAS4.jpg
-[5]: img/portfolio/BFAS5.jpg
+[1]: /static/img/portfolio/BFAS1.jpg  
+[2]: BFAS2.jpg  
+[3]: /portfolio/BFAS3.jpg  
+[4]: /img/portfolio/BFAS4.jpg  
+[5]: /img/portfolio/BFAS5.jpg  
 
 
 

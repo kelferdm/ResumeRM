@@ -33,9 +33,9 @@ The counties with no-kill shelters are primarily in the ranges of $50k and below
 
 > Are all of these significant? Are some of these heavier in significance? How would that affect our targets for no-kill by 2025?  
 
-## Limitations of a descriptive data set for actionable insights
+## Limitations of a descriptive data set for actionable insights  
 
-Actionable insights for purely demographic data can be limiting.
+Actionable insights for purely demographic data can be limiting.  
 
 For example, in the descriptive analysis on the previous slide, we can see that the demographics of counties with no-kill shelters are the following:  
 * At least a High School diploma  
@@ -44,7 +44,7 @@ For example, in the descriptive analysis on the previous slide, we can see that 
 * Income ranges at $75k and under  	
 
 
-The caveat here is that we are only looking at communites that already have no-kill shelters. How are we to know what counties to target if we can only see those counties that are already on our list? How are we to know which of these characteristics is actually significant in the research of where to target our legislation to promote and create no-kill shelters?
+The caveat here is that we are only looking at communities that already have no-kill shelters. How are we to know what counties to target if we can only see those counties that are already on our list? How are we to know which of these characteristics is actually significant in the research of where to target our legislation to promote and create no-kill shelters?  
 
 Currently our variables are:  
 * Education  
@@ -57,23 +57,23 @@ Are all of these significant? Are some of these heavier in significance? How wou
 Let’s find out.  
 
 
-I pulled demographic data for all US counties from the ERS USDA data portal
+I pulled demographic data for all US counties from the ERS USDA data portal.    
 
-This allowed me to compare no-kill county demographics from the Best Friends data set to all US counties
+This allowed me to compare no-kill county demographics from the Best Friends data set to all US counties.    
 
-This was necessary to build any models
+This was necessary to build any models.  
 
 
 My goal is obtaining this data was to be able to look at the demographics of counties in the US that contained no-kill shelters as well as those counties in the US that did not contain no-kill shelters.  
 
-The data needed to be cleaned and organized so that I would be able to join the Income, Education, and Demographic data and then compare the data between them.
-I also added a response field in the data that flagged the state/county as being a county that contained a no-kill shelter.
-From there, I could find which of those demographics was significant, either positively or negatively, and lay out the targets for counties that match demographically to counties that contain no-kill shelters.
+The data needed to be cleaned and organized so that I would be able to join the Income, Education, and Demographic data and then compare the data between them.  
+I also added a response field in the data that flagged the state/county as being a county that contained a no-kill shelter.  
+From there, I could find which of those demographics was significant, either positively or negatively, and lay out the targets for counties that match demographically to counties that contain no-kill shelters.  
  
 
 ![BFAS2][2]
 
-Logistic regression predictions  
+### Logistic regression predictions  
 
 A logistic regression helps us to understand the influence of these variables on the probability of a county being designated as no-kill.  
 
@@ -84,14 +84,14 @@ The most important factor was the percent of residents in a given county that ha
 
 
 
-Random forest importance  
+### Random forest importance  
 
 
-A random forest (ML) model highlights the most important variables in determining whether counties are listed as no-kill. 
+A random forest (ML) model highlights the most important variables in determining whether counties are listed as no-kill.  
 
-The most important variables for this data set focus on education levels.
+The most important variables for this data set focus on education levels.  
 
-Important to note that the education levels are not independent. Increases in one group must involve decreases to another group.
+Important to note that the education levels are not independent. Increases in one group must involve decreases to another group.  
 
 
 ![BFAS4][4]
@@ -100,19 +100,19 @@ Important to note that the education levels are not independent. Increases in on
 
 
 
-Counties predicted to be no-kill, which currently are not. These are good targets for outreach efforts.
+#### Counties predicted to be no-kill, which currently are not. These are good targets for outreach efforts.  
 
-The listed counties are US counties that my model gave a 40% or greater probability that should be counties that contain no-kill shelters.
+The listed counties are US counties that my model gave a 40% or greater probability that should be counties that contain no-kill shelters.  
 
-This means that the model found that these counties closely resemble the no-kill counties based on their current demographics and should be no-kill counties already; however, they are not. 
+This means that the model found that these counties closely resemble the no-kill counties based on their current demographics and should be no-kill counties already; however, they are not.  
 
-If the demographics of education, income, race, and population size are important, the listed counties are good targets for further research and implementation of no-kill shelters. 
+If the demographics of education, income, race, and population size are important, the listed counties are good targets for further research and implementation of no-kill shelters.  
 
-Top Three Counties that resemble current no-kill counties:
+#### Top Three Counties that resemble current no-kill counties:
 
-* Hunterdon County, NJ
-* Summity County, UT
-* Fairfax County, VA
+* Hunterdon County, NJ  
+* Summity County, UT  
+* Fairfax County, VA  
 
 
 ![This is me][5]

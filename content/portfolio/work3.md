@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:44:32+05:30"
 draft: false
-image: img/portfolio/TooleMap.jpg
+image: img/portfolio/TooleMap.png
 showonlyimage: false
 title: Name of the work 3
 weight: 2

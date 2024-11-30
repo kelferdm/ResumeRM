@@ -3,12 +3,19 @@ date: "2016-11-05T19:53:42+05:30"
 draft: false
 image: https://github.com/kishaningithub/hugo-creative-portfolio-theme/raw/master/exampleSite/static/img/portfolio/business-card.jpg
 showonlyimage: true
-title: Name of the work 5
+title: Into the Trees - A Risk Analysis for the Pando Grove in Fishlake National Forest of South Central Utah 
 weight: 5
 ---
 
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
-<!--more-->
+![This is me][5]
+
+
+[1]: /img/portfolio/BFAS1.jpg  
+[2]: /img/portfolio/BFAS2.jpg  
+[3]: /img/portfolio/BFAS3.jpg  
+[4]: /img/portfolio/BFAS4.jpg  
+[5]: /img/portfolio/BFAS5.jpg
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 

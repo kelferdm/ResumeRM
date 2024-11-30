@@ -9,6 +9,17 @@ weight: 1
 
 When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
 <!--more-->
+![This is me][5]
+
+
+[1]: /img/portfolio/BFAS1.jpg  
+[2]: /img/portfolio/BFAS2.jpg  
+[3]: /img/portfolio/BFAS3.jpg  
+[4]: /img/portfolio/BFAS4.jpg  
+[5]: /img/portfolio/BFAS5.jpg
+
+
+
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 

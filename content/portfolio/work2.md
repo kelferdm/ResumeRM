@@ -3,7 +3,7 @@ date: ""
 draft: false
 image: img/portfolio/landViewer.png
 showonlyimage: false
-title: Land Viewer Application (R Shiny)
+title: Land District Map (R Shiny)
 weight: 3
 ---
 
@@ -11,4 +11,4 @@ The Land District App was developed to provide a comprehensive and interactive v
 
 ![][2]
 
-![Land Valuation Review Application](images/landapp-01.png)
+![Land District Application](images/landapp-01.png)

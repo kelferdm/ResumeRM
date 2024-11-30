@@ -16,7 +16,7 @@ Education levels from No High School Diploma to Post Graduate Degree.
 The highest number of participants are in the High School diploma group. 
 
 Top Right:
-Population Race Demograhics:
+Population Race Demographics:
 Demographics tend to be largely white with a lower proportion of other racial demographics
 
 Lower Left:

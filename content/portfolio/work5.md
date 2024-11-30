@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/pando.png
 showonlyimage: false
 title: Into the Trees - A Risk Analysis for the Pando Grove in Fishlake National Forest of South Central Utah 
-weight: 2
+weight: 3
 ---
 
 [See the full Pando StoryMap Here](https://storymaps.arcgis.com/stories/9b8072ec05404f549cbcfea94007d58c)

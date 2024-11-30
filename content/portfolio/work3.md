@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/TooleMap.png
 showonlyimage: false
 title: County Case Study Map (R Shiny)
-weight: 2
+weight: 3
 ---
 
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.

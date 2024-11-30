@@ -1,6 +1,6 @@
 ---
 date: "2016-11-05T19:44:32+05:30"
-draft: false
+draft: true
 image: img/portfolio/TooleMap.png
 showonlyimage: false
 title: County Case Study Map (R Shiny)

@@ -23,8 +23,6 @@ With my approximately 7 years of experience in data organization and data analys
 
 ![This is me](Me_TrainFr2.jpg)
 
-#### Resume
-
 #### Education
 
 -   BS Information Systems, Utah Valley University

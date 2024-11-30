@@ -2,9 +2,9 @@
 date: "2016-11-05T18:25:22+05:30"
 draft: false
 image: img/portfolio/IndyKelly1.jpg
-showonlyimage: true
+showonlyimage: false
 title: Animal Society No-Kill Shelters and Counties in US
-weight: 0
+weight: 1
 ---
 ## A look at the demographics of current no-kill counties  
 

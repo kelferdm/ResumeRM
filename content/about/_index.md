@@ -3,16 +3,15 @@ date: "2023-10-05T21:05:33+05:30"
 title: About me
 ---
 
-#### Resume  
+#### [Resume](https://drive.google.com/file/d/18ovFEgYAbvRgCV6bSXoh5qDJXX_6cfYU/view?usp=sharing "Follow for my resume!")
 
 #### Cover Letter
 
-
 My greatest love is my pack of rescue dogs. My second greatest love is turning data into useful insights and actions.
 
-In my current position as a Data Analyst III in the Assessor’s Office for Utah County Government, I have created R Shiny applications to review land district boundaries and statistical analyses to analyze and update/combine current boundaries. I am also team lead in charge of creating a new valuation process for assessing land values for Utah County, UT.  
+In my current position as a Data Analyst III in the Assessor’s Office for Utah County Government, I have created R Shiny applications to review land district boundaries and statistical analyses to analyze and update/combine current boundaries. I am also team lead in charge of creating a new valuation process for assessing land values for Utah County, UT.
 
-In this position, I have used R Markdown to document all current and upcoming processes for interacting with the office’s newly created applications and land valuation process. I have also created specific documentation for the metadata of our office’s databases (Oracle and Azure), as well as documentation for many large scale processes and reports for the office. 
+In this position, I have used R Markdown to document all current and upcoming processes for interacting with the office’s newly created applications and land valuation process. I have also created specific documentation for the metadata of our office’s databases (Oracle and Azure), as well as documentation for many large scale processes and reports for the office.
 
 As a Performance Marketing Analyst, I prepared weekly auditing reports to review all data that was received via our lead generation channels. After the data was audited and any discrepancies corrected, I created dashboards that provide a daily reference to track our lead information over time. I also used other external data sources to create statistical analyses and predictions to assist team members in streamlining their marketing campaigns to better reach their audiences.
 
@@ -22,20 +21,14 @@ In my previous employment as a data analyst at Utah Valley University, and emplo
 
 With my approximately 7 years of experience in data organization and data analysis roles, I acquired a background in problem solving, employee training, and collaborative group work as well as solo projects.
 
+![This is me](Me_TrainFr2.jpg)
 
-![This is me][1]
-
-#### Resume  
-
+#### Resume
 
 #### Education
 
-* BS Information Systems, Utah Valley University
-* MA, English/Composition Rhetoric, Missouri State University
-* Certificate of Proficiency - Data Analysis, Utah Valley University
-* Certificate of Proficiency - Data Management/Database Administration, Utah Valley University
-* Certificate of Proficiency - Information Technology, Utah Valley University
-
-
-
-[1]: Me_TrainFr2.jpg
+-   BS Information Systems, Utah Valley University
+-   MA, English/Composition Rhetoric, Missouri State University
+-   Certificate of Proficiency - Data Analysis, Utah Valley University
+-   Certificate of Proficiency - Data Management/Database Administration, Utah Valley University
+-   Certificate of Proficiency - Information Technology, Utah Valley University

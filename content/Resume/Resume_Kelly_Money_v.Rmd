@@ -1,13 +1,22 @@
 ---
-date: "2023-10-05T21:05:33+05:30"
-title: Resume  
----  
-***Kelly Money, M.A.***  
+title: "Kelly Money, M.A."
+author: 
+date: 
+output: html_document
+---
 
-kellylmoney@protonmail.com  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+\
+\
+***Find me!***
+
+Email: kellylmoney@protonmail.com  
  
 LinkedIn: https://www.linkedin.com/in/kellymoney/  
-
+\
+\
 I am a data analyst with seven years of extensive experience working with Excel, R, SQL, Domo, and Tableau. Data wrangling is totally my jam. I enjoy creating tools for reproducible data cleaning and visualization. I love using data to answer questions and solve problems!  
 \
 \
@@ -70,7 +79,7 @@ I am a data analyst with seven years of extensive experience working with Excel,
 \
 
 *DATA OPERATIONS CONSULTANT | FILEVINE, INC | OCTOBER 2020 – JULY 2022*  
-\
+
 •	Cleaning, transforming, and mapping and migrating data using R and Excel  
 
 •	Assist in planning and managing the data migration process  
@@ -86,7 +95,7 @@ I am a data analyst with seven years of extensive experience working with Excel,
 \
 
 *DATA ANALYST | UTAH VALLEY UNIVERSITY | JANUARY 2019 – OCTOBER 2020*    
-\
+
 •	Data reporting using business intelligence tools (i.e., Tableau workbooks and dashboard design)  
 
 •	Data collecting, analyzing, tracking methods and techniques  

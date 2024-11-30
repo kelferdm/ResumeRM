@@ -5,7 +5,7 @@ title: About me
 
 #### [Resume](https://drive.google.com/file/d/18ovFEgYAbvRgCV6bSXoh5qDJXX_6cfYU/view?usp=sharing "Follow for my resume!")
 
-#### Cover Letter
+#### Cover Letter[link](https://drive.google.com/file/d/18ovFEgYAbvRgCV6bSXoh5qDJXX_6cfYU/view?usp=sharing)
 
 My greatest love is my pack of rescue dogs. My second greatest love is turning data into useful insights and actions.
 

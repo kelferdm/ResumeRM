@@ -2,6 +2,12 @@
 date: "2023-10-05T21:05:33+05:30"
 title: About me
 ---
+
+#### Resume  
+
+#### Cover Letter
+
+
 My greatest love is my pack of rescue dogs. My second greatest love is turning data into useful insights and actions.
 
 In my current position as a Data Analyst III in the Assessor’s Office for Utah County Government, I have created R Shiny applications to review land district boundaries and statistical analyses to analyze and update/combine current boundaries. I am also team lead in charge of creating a new valuation process for assessing land values for Utah County, UT.  
@@ -19,6 +25,7 @@ With my approximately 7 years of experience in data organization and data analys
 
 ![This is me][1]
 
+#### Resume  
 
 
 #### Education
